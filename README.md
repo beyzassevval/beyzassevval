@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beyza Şevval
 ====================================================================================================================================
 
-Junior Backend Developer
+Computer Engineering Student
 ------------------------
 
 * 🖥️  See my portfolio at [Lınkedın](http://https://www.linkedin.com/in/beyza-%C5%9Fenku%C5%9F-862529297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
